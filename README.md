@@ -24,3 +24,6 @@ Styling is a key aspect of the app’s appeal. Using CSS (or a framework like Ta
 Beyond basic functionality, the app can be extended with advanced features. A ForecastSection component might display a 5-day weather outlook, fetched from the API’s forecast endpoint, presented in a scrollable or tabular format. Geolocation support, using the browser’s Geolocation API, allows the app to auto-detect the user’s location on load, streamlining the process for first-time users. Local storage could persist recent searches, enhancing convenience.
 
 Deployable on platforms like GitHub Page, the Weather App is lightweight and scalable. It demonstrates React’s power in creating modular, reusable codebases while delivering a practical utility. Whether for checking the day’s forecast or exploring React development, this Weather App combines functionality, aesthetics, and technical sophistication into a compelling project.
+
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/e87822bd-5675-4df2-9706-8942db2bae5b)
